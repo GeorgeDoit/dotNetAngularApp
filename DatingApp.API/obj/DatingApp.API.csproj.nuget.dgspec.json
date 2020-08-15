@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AELGD\\Desktop\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
+    "C:\\Users\\AELGD\\Desktop\\dotNetAngularApp\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AELGD\\Desktop\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
+    "C:\\Users\\AELGD\\Desktop\\dotNetAngularApp\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AELGD\\Desktop\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\AELGD\\Desktop\\dotNetAngularApp\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\Users\\AELGD\\Desktop\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "C:\\Users\\AELGD\\Desktop\\dotNetAngularApp\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\AELGD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AELGD\\Desktop\\DatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "C:\\Users\\AELGD\\Desktop\\dotNetAngularApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
