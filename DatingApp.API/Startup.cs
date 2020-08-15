@@ -30,8 +30,8 @@ namespace DatingApp.API
             services.AddDbContext<DataContext>(x => x.UseSqlite
             (Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllers();
-            services.AddCors();// ---> app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
-
+            // Using that o avoid unckown origin browser error 
+            services.AddCors();
 
         }
 
@@ -44,6 +44,7 @@ namespace DatingApp.API
             }
 
             // app.UseHttpsRedirection();
+            // Using that o avoid unckown origin browser error 
             app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
             app.UseRouting();
