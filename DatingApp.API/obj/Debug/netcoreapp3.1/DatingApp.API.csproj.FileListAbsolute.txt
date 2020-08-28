@@ -170,3 +170,4 @@ C:\Users\AELGD\Desktop\dotNetAngularApp\DatingApp.API\obj\Debug\netcoreapp3.1\st
 C:\Users\AELGD\Desktop\dotNetAngularApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
 C:\Users\AELGD\Desktop\dotNetAngularApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
 C:\Users\AELGD\Desktop\dotNetAngularApp\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.genruntimeconfig.cache
+C:\Users\AELGD\Desktop\dotNetAngularApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

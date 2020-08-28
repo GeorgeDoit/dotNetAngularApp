@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CVY13cyAzdXk1HdEoj7p5K2dDyw+Ps5NMV5BoiFuVR61mp856AUybReg/Jd5zl/lV2zwv28FZBlHrBSif/cN7g==",
+  "dgSpecHash": "wd3tnh/8iEI7/8mdRvhZ1X1l5L3wk1ikwySLxKPaZ58U8IXrMivCxBfLPzSMXHEyRCkU54k0fjMLiZjWcVVE8Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\AELGD\\Desktop\\dotNetAngularApp\\DatingApp.API\\DatingApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AELGD\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\AELGD\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.7\\microsoft.aspnetcore.authentication.jwtbearer.3.1.7.nupkg.sha512",
     "C:\\Users\\AELGD\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\AELGD\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.0\\microsoft.data.sqlclient.2.0.0.nupkg.sha512",
     "C:\\Users\\AELGD\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.0\\microsoft.data.sqlclient.sni.runtime.2.0.0.nupkg.sha512",
