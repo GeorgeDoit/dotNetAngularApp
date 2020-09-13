@@ -3,6 +3,9 @@ using DatingApp.API.Models;
 
 namespace DatingApp.API.Data
 {
+    /// <summary>
+    /// This is what a clas does
+    /// </summary>
 
     public interface IAuthRepository
     {
